@@ -8,8 +8,12 @@ Proyecto Wonder Woman es un repositorio en el que se estará una página web en 
 
 ### Integrantes
 
-<p>Andrés Arroyave
+<p>[Andrés Arroyave](https://github.com/Andres-Arroyave)
 <br>
-Valentina Hernández 
+[Víctor García](https://github.com/VictorAlfonsoGarciaUribe)
 <br>
-Víctor Alfonso García</p>
+[Valentina Hernández](https://github.com/valeerro)</p>
+
+### Imagen Inicio
+![]("https://firebasestorage.googleapis.com/v0/b/wonderwomanaal.appspot.com/o/WhatsApp%20Image%202023-04-01%20at%2010.21.31%20AM%20(1).jpeg?alt=media&token=44819375-170b-48a9-95c9-d40bd26aa817")
+
